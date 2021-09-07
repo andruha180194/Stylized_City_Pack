@@ -981,3 +981,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.25.50:472][764]LogRenderer: Reallocating scene render targets to support 1208x924 Format 10 NumSamples 1 (Frame:6437).
 [2021.09.07-17.25.56:420][436]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:6821).
 [2021.09.07-17.26.09:996][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.07-17.27.19:692][348]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.27.19:692][348]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
