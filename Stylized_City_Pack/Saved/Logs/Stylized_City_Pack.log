@@ -939,3 +939,18 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.55.55:749][109]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_013B2D778C4B8A516790CAD199159A5DAD.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap'
 [2021.09.07-17.55.55:767][109]AssetCheck: New page: Asset Save: Map_01
 [2021.09.07-17.55.55:767][109]LogContentValidation: Display: Validating World /Game/Maps/Map_01.Map_01
+[2021.09.07-17.58.06:791][851]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.58.06:791][851]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.58.09:497][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.07-17.58.09:502][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.09.07-17.58.09:509][125]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_01946A2D1B48FFE93FB0AEF9AE9D9D0B1B.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap'
+[2021.09.07-17.58.09:525][125]AssetCheck: New page: Asset Save: Map_01
+[2021.09.07-17.58.09:525][125]LogContentValidation: Display: Validating World /Game/Maps/Map_01.Map_01
+[2021.09.07-17.59.49:351][868]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.59.49:351][868]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.59.56:612][539]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.07-18.00.03:062][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.07-18.00.03:067][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.07-18.00.03:075][287]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_01626C282A400F31DB871F488BFC86A99A.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap'
+[2021.09.07-18.00.03:091][287]AssetCheck: New page: Asset Save: Map_01
+[2021.09.07-18.00.03:091][287]LogContentValidation: Display: Validating World /Game/Maps/Map_01.Map_01
