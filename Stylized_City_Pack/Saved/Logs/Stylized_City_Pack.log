@@ -1071,3 +1071,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.36.10:342][533]LogEditorActor: Deleted Actor: VolumetricCloud
 [2021.09.07-17.36.10:347][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
 [2021.09.07-17.36.10:348][533]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2021.09.07-17.37.49:337][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.09.07-17.37.49:340][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2021.09.07-17.37.49:346][346]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_01_Auto1094FDA38424F7D0DFF47E99C6698CCA3.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap'
+[2021.09.07-17.37.49:347][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.017
+[2021.09.07-17.37.49:347][346]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
