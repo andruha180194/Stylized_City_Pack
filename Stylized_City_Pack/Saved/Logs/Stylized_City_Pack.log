@@ -983,3 +983,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.26.09:996][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
 [2021.09.07-17.27.19:692][348]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
 [2021.09.07-17.27.19:692][348]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.32.55:332][245]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.07-17.32.55:340][245]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.07-17.32.55:347][245]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.07-17.32.58:266][594]LogContentBrowser: Attempting asset rename: NewBlueprint -> 123
+[2021.09.07-17.32.58:386][594]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.07-17.33.01:315][919]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/123" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Models/123.uasset" SILENT=true
+[2021.09.07-17.33.01:359][919]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/123B1EB908147DA60CA5750239C80391718.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Models/123.uasset'
+[2021.09.07-17.33.01:657][919]AssetCheck: New page: Asset Save: 123
+[2021.09.07-17.33.01:657][919]LogContentValidation: Display: Validating Blueprint /Game/Models/123.123
+[2021.09.07-17.33.03:942][168]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Models/123" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Models/123.uasset" SILENT=true
+[2021.09.07-17.33.03:946][168]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/123E5B8279F4FE91E4ABDDF459FE1CB9F60.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Models/123.uasset'
+[2021.09.07-17.33.08:334][168]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.33.08:334][168]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.07-17.33.11:441][168]LogSlate: Window 'Submit Files' being destroyed
+[2021.09.07-17.33.12:204][168]LogSourceControl: commit successful: [main 4e70370] add
+[2021.09.07-17.33.12:259][168]SourceControl: [main 4e70370] add
+[2021.09.07-17.33.12:259][168]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2021.09.07-17.33.12:259][168]SourceControl:  create mode 100644 Stylized_City_Pack/Content/Models/123.uasset
+[2021.09.07-17.33.12:265][168]SourceControl: Commited [main 4e70370] add.
+[2021.09.07-17.33.12:269][168]AssetCheck: New page: Asset Save: 123
+[2021.09.07-17.33.12:269][168]LogContentValidation: Display: Validating Blueprint /Game/Models/123.123
