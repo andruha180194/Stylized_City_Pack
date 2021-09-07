@@ -1004,3 +1004,70 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.33.12:265][168]SourceControl: Commited [main 4e70370] add.
 [2021.09.07-17.33.12:269][168]AssetCheck: New page: Asset Save: 123
 [2021.09.07-17.33.12:269][168]LogContentValidation: Display: Validating Blueprint /Game/Models/123.123
+[2021.09.07-17.33.37:851][370]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2021.09.07-17.33.43:283][959]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2021.09.07-17.33.53:625][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Content: 'H:/UE4_V/UE_4.27/Engine/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/2D/Paper2D/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/2D/Paper2D/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Developer/AnimationSharing/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Enterprise/DatasmithContent/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/FX/Niagara/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/FX/Niagara/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Lumin/MagicLeap/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Editor/GeometryMode/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Editor/SpeedTreeImporter/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Media/MediaCompositing/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/AudioSynesthesia/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXR/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXREyeTracker/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/OpenXRHandTracking/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/VirtualProduction/Takes/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Synthesis/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosClothEditor/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosSolverPlugin/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/ChaosNiagara/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/GeometryCollectionPlugin/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/GeometryProcessing/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/MotoSynth/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Experimental/PythonScriptPlugin/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Oculus/OculusVR/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.53:626][122]SourceControl: fatal: H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'H:/UE4_V/UE_4.27/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'F:/Project_Marketplace/Stylized_City_Pack'
+[2021.09.07-17.33.57:131][122]LogSlate: Window 'Submit Files' being destroyed
+[2021.09.07-17.34.13:967][950]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.07-17.34.34:892][240]Cmd: DELETE
+[2021.09.07-17.34.34:893][240]Cmd: ACTOR DELETE
+[2021.09.07-17.34.34:984][240]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.09.07-17.34.34:994][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.09.07-17.34.34:996][240]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.09.07-17.35.11:441][380]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.07-17.35.12:246][473]Cmd: DELETE
+[2021.09.07-17.35.12:246][473]Cmd: ACTOR DELETE
+[2021.09.07-17.35.12:247][473]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.09.07-17.35.12:252][473]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.09.07-17.35.12:254][473]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.09.07-17.35.17:773][124]Cmd: TRANSACTION UNDO
+[2021.09.07-17.35.17:773][124]LogEditorTransaction: Undo Delete Actors
+[2021.09.07-17.35.20:626][422]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.07-17.35.24:461][874]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2021.09.07-17.35.24:735][905]Cmd: DELETE
+[2021.09.07-17.35.24:735][905]Cmd: ACTOR DELETE
+[2021.09.07-17.35.24:737][905]LogEditorActor: Deleted Actor: BP_Sky_Sphere_C
+[2021.09.07-17.35.24:743][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.07-17.35.24:744][905]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.09.07-17.35.41:290][774]Cmd: DELETE
+[2021.09.07-17.35.41:290][774]Cmd: ACTOR DELETE
+[2021.09.07-17.35.41:291][774]LogEditorActor: Deleted Actor: SkyAtmosphere
+[2021.09.07-17.35.41:296][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.09.07-17.35.41:298][774]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.09.07-17.35.51:688][987]Cmd: DELETE
+[2021.09.07-17.35.51:688][987]Cmd: ACTOR DELETE
+[2021.09.07-17.35.51:689][987]LogEditorActor: Deleted Actor: AtmosphericFog
+[2021.09.07-17.35.51:695][987]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.09.07-17.35.51:696][987]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.09.07-17.36.05:319][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.09.07-17.36.06:005][ 49]LogEditorViewport: Clicking on Actor (LMB): VolumetricCloud (VolumetricCloud)
+[2021.09.07-17.36.10:341][533]Cmd: DELETE
+[2021.09.07-17.36.10:341][533]Cmd: ACTOR DELETE
+[2021.09.07-17.36.10:342][533]LogEditorActor: Deleted Actor: VolumetricCloud
+[2021.09.07-17.36.10:347][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.07-17.36.10:348][533]LogEditorActor: Deleted 1 Actors (0.007 secs)
