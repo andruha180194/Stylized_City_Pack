@@ -1076,3 +1076,10 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.37.49:346][346]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_01_Auto1094FDA38424F7D0DFF47E99C6698CCA3.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Autosaves/Game/Maps/Map_01_Auto1.umap'
 [2021.09.07-17.37.49:347][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/Map_01' took 0.017
 [2021.09.07-17.37.49:347][346]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2021.09.07-17.47.25:532][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.09.07-17.47.25:632][669]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map_01" FILE="F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.07-17.47.25:638][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.09.07-17.47.25:645][669]LogSavePackage: Moving 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Saved/Map_0171CEE3DF44BE4CDA04F877A150A66599.tmp' to 'F:/Project_Marketplace/Stylized_City_Pack/Stylized_City_Pack/Content/Maps/Map_01.umap'
+[2021.09.07-17.47.25:648][669]LogFileHelpers: Saving map 'Map_01' took 0.016
+[2021.09.07-17.47.25:664][669]AssetCheck: New page: Asset Save: Map_01
+[2021.09.07-17.47.25:664][669]LogContentValidation: Display: Validating World /Game/Maps/Map_01.Map_01
