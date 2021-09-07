@@ -967,3 +967,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.07-17.24.11:551][466]SourceControl: Commited [main 111055c] 1.
 [2021.09.07-17.24.11:555][466]AssetCheck: New page: Asset Save: Map_02
 [2021.09.07-17.24.11:555][466]LogContentValidation: Display: Validating World /Game/Maps/Map_02.Map_02
+[2021.09.07-17.25.08:633][583]LogObjectTools: Deleting 1 worlds: /Game/Maps/Map_02.Map_02
+[2021.09.07-17.25.08:633][583]LogObjectTools: Currently 1 active worlds: /Game/Maps/Map_01.Map_01
+[2021.09.07-17.25.08:639][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.09.07-17.25.10:190][583]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.07-17.25.10:207][583]LogWorld: UWorld::CleanupWorld for Map_02, bSessionEnded=true, bCleanupResources=true
+[2021.09.07-17.25.10:208][583]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.07-17.25.10:337][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.07-17.25.10:348][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.07-17.25.10:353][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.07-17.25.10:553][583]SourceControl: Error: Updated 0 paths from the index
+[2021.09.07-17.25.10:688][583]SourceControl: rm 'Stylized_City_Pack/Content/Maps/Map_02.umap'
